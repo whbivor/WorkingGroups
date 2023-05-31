@@ -1,5 +1,3 @@
-# API Proposal Template
-
 
 | **Field** | Description | 
 | ---- | ----- |
