@@ -10,4 +10,3 @@
 | Validated in lab/productive environments? | YES. <br>Available in China Mobile test environment.|
 | Validated with real customers? | YES.<br> Click-to-dial is being used by several companies, such as YIDIANLING,China Mobile (Hangzhou) Information Technology Co., Ltd. and others.|
 | Validated with operators? | NO.|
-| Supporters in API Backlog Working Group | List of supporters. <br><em> NOTE: That shall be added by the Working Group. </em> |
